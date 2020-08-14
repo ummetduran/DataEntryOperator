@@ -1,0 +1,2 @@
+510,Fatma Ozturk,MuhendislikFakultesi
+A software agent is an piece of software that functiions as an agent for a user or anıther prorgam, working autonomously and continuously in a particular environment.Software agent is inhibited by other processes and agents, but is also able to learn from its experience in functioning in an environment over a long period of time.

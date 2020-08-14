@@ -1,0 +1,7 @@
+152,Veli Ali,MuhendislikFakultesi
+A programing approach functional programing used almost all todays lanfuages.This subprograms are workked by different arguments.This approach simply;prevents code repetition,increases code readability and make code anlaysis easily,provides modular approach to designer during the program design.
+
+
+
+
+

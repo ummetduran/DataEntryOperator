@@ -1,0 +1,2 @@
+110,Ali Cetin,MuhendislikFakultesi
+Imagine a mechamical turtle thaat walks around the room undre the control of a Java application. The tuurtle holds a pen in one of two positioons, uğ or down. The deafult position is up.
